@@ -18,6 +18,7 @@ public class GETAPICALLS {
 
        int statusCode = apiResponse.status();
        System.out.println("response status Code: "+ statusCode);
+        System.out.println("response status Code");
 
 
     }
